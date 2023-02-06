@@ -1,2 +1,2 @@
-# stackblitz
+# stackblitz Nava Project
 I chose React for this project because it's the framework I'm more familiar with. I like being able to create components to make the code more understandable. React also uses Hooks like useState, which makes it easier to change the value of what's inputted which helps with this project. I used Bootstrap to style the project because I'm really familiar with it and it uses features like Cards, Grids, and Forms which helped create the project. One of the choices I made, that was inspired by the wireframe, was to create a modal with a form to add to the list of members. I used a modal because I think having a modal open after pressing a button, looks very nice for the design.
